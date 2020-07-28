@@ -1,0 +1,10 @@
+
+.container {
+    margin: 0 auto;
+    width: 35%;
+  }
+.todo-divs{
+    display: flex;
+    justify-content: space-between;
+  
+}
