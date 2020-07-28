@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Todos from './Todos'
-import AddTodo from './AddTodo'
+import AddTodo from './components/AddTodo'
 
 
 
